@@ -1,2 +1,7 @@
-# demo-estudio-jebs-asociados
-Demo web para Estudio Jebs &amp; Asociados — diseñada por eterlab.
+# Estudio Jebs & Asociados
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
